@@ -124,6 +124,7 @@ is to showcase the power of deep learning and its ability to accurately classify
 dog_app.ipynp : Notebook containing the full process, loading, cleaning, preprocessing, creating, teasting and evaluating model.
 dataset can be downloaded as mentioned above.
 post plog.html : is a web page that contains details about project methodology and implementation.
+Write an Algorithm for a Dog Identification App.pdf: is a pdf version of the project report that contains details about project methodology and implementation.
 
 ### Licensing, Authors, Acknowledgements:                              
 The data I used is from Udacity nanodegree program, and the workspace I used is udacity project workspace.
