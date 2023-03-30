@@ -123,6 +123,7 @@ is to showcase the power of deep learning and its ability to accurately classify
 File Description:
 dog_app.ipynp : Notebook containing the full process, loading, cleaning, preprocessing, creating, teasting and evaluating model.
 dataset can be downloaded as mentioned above.
+post plog.html : is a web page that contains details about project methodology and implementation.
 
 Licensing, Authors, Acknowledgements
 the data I used is from Udacity nanodegree program, and the workspace I used is udacity project workspace.
