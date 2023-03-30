@@ -100,7 +100,7 @@ jupyter notebook dog_app.ipynb
 
 12. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). Then, follow the instructions in the notebook.
 
-the main libraries used: 
+### The main libraries used:              
 NumPy: a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices.
 Pandas: a library for data manipulation and analysis.
 Matplotlib: a plotting library.
@@ -115,12 +115,12 @@ Scikit-learn: a machine learning library that provides simple and efficient tool
 
 
 
-the motivation for the project: 
+### The motivation for the project:                     
 is to showcase the power of deep learning and its ability to accurately classify dog breeds from images.and also the project serves as an excellent opportunity for me
  to explore different deep learning architectures, techniques, and tools and learn how to develop robust and accurate machine learning models.
 
 
-File Description:
+### File Description:                          
 dog_app.ipynp : Notebook containing the full process, loading, cleaning, preprocessing, creating, teasting and evaluating model.
 dataset can be downloaded as mentioned above.
 post plog.html : is a web page that contains details about project methodology and implementation.
